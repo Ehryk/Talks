@@ -2,6 +2,8 @@
 0bsCur!ty != Security
 Rule 34.5 - If the concept exists, some nerd is fascinated by it somewhere.
 
+Powerpoint: https://github.com/Ehryk/Talks/raw/master/RDI%20Rountables/Arduino%20Roundtable/Intro%20to%20Hardware%20Programming.pptx
+
 Video Links: 
 
 GearDisplay Basic Operation: http://www.youtube.com/watch?v=FTQq74HFvWU
@@ -9,3 +11,79 @@ GearDisplay Voltage Display: http://www.youtube.com/watch?v=qHEV87LpvVI
 GearDisplay Menu System: http://www.youtube.com/watch?v=9K3rxGJS8n4
 
 Matt Nameshield: http://www.youtube.com/watch?v=KLYUQCO8-6A
+
+Learning Assembly:
+Don't have source code
+Autodesk -> compiled coI'dde JMP
+
+digitizer -> aerial photography mapping x,y,z (stereo display)
+go into code, 
+
+February: $75
+March: $75
+April: $75
+May: $75 
+June: $75
+July: $75
+August: $75
+September: $75
+Total: $600
+
+Track Page Views: 
+
+
+DNN Site Log Plugin: http://oliverhine.com/DotNetNuke/Modules/SiteLog.aspx
+Advanced Click and Event Tracking in DNN with GA: http://www.slideshare.net/regenbauma/advanced-click-and-events-tracking-for-google-analytics-in-dotnetnuke-by-soltech
+
+eberhart
+
+search issue per/word
+multi-municipal -> must choose an election, 
+group year report -> elections should show multi-municipal
+
+
+XML Feed ~1 minute or so
+
+Staff Augmentation - GIS
+Mike 
+emenze@resdat.com
+Extra pair of hands
+
+Resource Data Inc.
+6 cotton t-shirts
+6 baseball caps
+
+f.FilerFirstName+' '+f.FilerLastName+', '+f.FilerFirstName
+f.CandidateName+' '+f.CandidateFirstName+' '+f.CandidateLastName+', '+f.CandidateFirstName
+f.GroupYearName+' '+g.Name
+c.Address1+' '+c.City+' '+c.StateName+' '+c.StateAbbreviation+' '+c.Zip+' '+c.CountryName+' '+c.CountryAbbreviation
+f.CandidateName+' '+f.CandidateFirstName+' '+f.CandidateLastName+', '+f.CandidateFirstName+' '+f.GroupYearName+' '+g.Name+' '+f.FilerFirstName+' '+f.FilerLastName+', '+f.FilerFirstName
+
+IE Form
+Add Import/Export
+Contributions first, Expenditures second
+
+Comment/Reason Visibility to filers
+
+IE/Entity Registrations
+Report - 
+ER Filings
+IE Expenditures - Individual, Registered Group, Other
+
+Internet Explorer
+
+15-6 Describe Expenditure
+
+http://10.14.0.183/gpio/toggle/0 green
+http://10.14.0.183/gpio/toggle/1 yellow
+http://10.14.0.183/gpio/toggle/2 red
+https://github.com/Ehryk/AutoPi
+Command Summary: http://10.14.0.183/gpio
+
+270-3403
+Issue: Henry September Rent - Fees
+Denny - Utility bills
+
+Patrick - 
+Jordan  - 
+
